@@ -5,7 +5,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 plt.rcParams.update({'font.size': 15})
 cnx = mysql.connector.connect(user='root', password='mysqlinstaller@001',
-                              host='localhost', database='bi',port=3305)
+                              host='localhost', database='bi',port='3305')
 
 
 # Read data from the database into a dataframe
