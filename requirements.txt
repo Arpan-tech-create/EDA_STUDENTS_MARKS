@@ -1,4 +1,5 @@
-pandas
-matplotlib
-seaborn
 mysql-connector-python
+pandas
+seaborn
+streamlit
+matplotlib
